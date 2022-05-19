@@ -1,6 +1,12 @@
 # McDoorとは?
 McDoorは、MinecraftサーバーのBackdoorプラグインです。<br>
 Op権限の操作や、サーバー機の操作等ができます。
+# バージョン
+## 対応バージョン
+- 1.18.2
+- 1.18.1
+## Javaバージョン
+- Java17
 #機能
 ## OpGuard検知
 McDoorは、OpGuardを検知することが出来ます。<br>
