@@ -19,7 +19,7 @@ McDoorは、LuckPermsを検知することが出来ます。<br>
 - `#.op <MCID / "me">` - 特定のプレイヤーまたは自分にOp権限を付与
 - `#.deop <MCID / "me">` - 特定のプレイヤーまたは自分からOp権限をはく奪
 - `#.gm <GM Number>` - 自分のゲームモードを変更
-- `#.give <ItemID> <Count>` - 自分にアイテムを付与
+- `#.give <ItemID(ID:SubID)> <Count>` - 自分にアイテムを付与
 - `#.kick <MCID>` - 特定のプレイヤーをKick
 - `#.timeout <MCID>` - 特定のプレイヤーをタイムアウトとしてKick
 - `#.ban <MCID>` - 特定のプレイヤーをBan
